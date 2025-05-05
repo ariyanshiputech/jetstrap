@@ -57,7 +57,7 @@ php artisan jetstream:install inertia --teams
 Use Composer to install Jetstrap into your new Laravel project as dev dependency:
 
 ```
-composer require nascent-africa/jetstrap --dev
+composer require ariyanshipu/jetstrap --dev
 ```
 
 Regardless how you install Jetstream, Jetstrap commands are very similar to that
